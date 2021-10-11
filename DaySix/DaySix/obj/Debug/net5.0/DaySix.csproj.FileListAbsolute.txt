@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\CSharp\DaySix\DaySix\bin\Debug\net5.0\DaySix.exe
+C:\Users\Admin\Desktop\CSharp\DaySix\DaySix\bin\Debug\net5.0\DaySix.deps.json
+C:\Users\Admin\Desktop\CSharp\DaySix\DaySix\bin\Debug\net5.0\DaySix.runtimeconfig.json
+C:\Users\Admin\Desktop\CSharp\DaySix\DaySix\bin\Debug\net5.0\DaySix.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\CSharp\DaySix\DaySix\bin\Debug\net5.0\DaySix.dll
+C:\Users\Admin\Desktop\CSharp\DaySix\DaySix\bin\Debug\net5.0\ref\DaySix.dll
+C:\Users\Admin\Desktop\CSharp\DaySix\DaySix\bin\Debug\net5.0\DaySix.pdb
+C:\Users\Admin\Desktop\CSharp\DaySix\DaySix\obj\Debug\net5.0\DaySix.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\CSharp\DaySix\DaySix\obj\Debug\net5.0\DaySix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\CSharp\DaySix\DaySix\obj\Debug\net5.0\DaySix.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\CSharp\DaySix\DaySix\obj\Debug\net5.0\DaySix.AssemblyInfo.cs
+C:\Users\Admin\Desktop\CSharp\DaySix\DaySix\obj\Debug\net5.0\DaySix.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CSharp\DaySix\DaySix\obj\Debug\net5.0\DaySix.dll
+C:\Users\Admin\Desktop\CSharp\DaySix\DaySix\obj\Debug\net5.0\ref\DaySix.dll
+C:\Users\Admin\Desktop\CSharp\DaySix\DaySix\obj\Debug\net5.0\DaySix.pdb
+C:\Users\Admin\Desktop\CSharp\DaySix\DaySix\obj\Debug\net5.0\DaySix.genruntimeconfig.cache

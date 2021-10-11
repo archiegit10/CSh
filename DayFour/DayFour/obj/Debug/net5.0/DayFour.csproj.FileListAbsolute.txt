@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\CSharp\DayFour\DayFour\obj\Debug\net5.0\DayFour.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\CSharp\DayFour\DayFour\obj\Debug\net5.0\DayFour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\CSharp\DayFour\DayFour\obj\Debug\net5.0\DayFour.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\CSharp\DayFour\DayFour\obj\Debug\net5.0\DayFour.AssemblyInfo.cs
+C:\Users\Admin\Desktop\CSharp\DayFour\DayFour\obj\Debug\net5.0\DayFour.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CSharp\DayFour\DayFour\bin\Debug\net5.0\DayFour.exe
+C:\Users\Admin\Desktop\CSharp\DayFour\DayFour\bin\Debug\net5.0\DayFour.deps.json
+C:\Users\Admin\Desktop\CSharp\DayFour\DayFour\bin\Debug\net5.0\DayFour.runtimeconfig.json
+C:\Users\Admin\Desktop\CSharp\DayFour\DayFour\bin\Debug\net5.0\DayFour.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\CSharp\DayFour\DayFour\bin\Debug\net5.0\DayFour.dll
+C:\Users\Admin\Desktop\CSharp\DayFour\DayFour\bin\Debug\net5.0\ref\DayFour.dll
+C:\Users\Admin\Desktop\CSharp\DayFour\DayFour\bin\Debug\net5.0\DayFour.pdb
+C:\Users\Admin\Desktop\CSharp\DayFour\DayFour\obj\Debug\net5.0\DayFour.dll
+C:\Users\Admin\Desktop\CSharp\DayFour\DayFour\obj\Debug\net5.0\ref\DayFour.dll
+C:\Users\Admin\Desktop\CSharp\DayFour\DayFour\obj\Debug\net5.0\DayFour.pdb
+C:\Users\Admin\Desktop\CSharp\DayFour\DayFour\obj\Debug\net5.0\DayFour.genruntimeconfig.cache

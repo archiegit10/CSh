@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\CSharp\DayThree\DayThree\bin\Debug\net5.0\DayThree.exe
+C:\Users\Admin\Desktop\CSharp\DayThree\DayThree\bin\Debug\net5.0\DayThree.deps.json
+C:\Users\Admin\Desktop\CSharp\DayThree\DayThree\bin\Debug\net5.0\DayThree.runtimeconfig.json
+C:\Users\Admin\Desktop\CSharp\DayThree\DayThree\bin\Debug\net5.0\DayThree.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\CSharp\DayThree\DayThree\bin\Debug\net5.0\DayThree.dll
+C:\Users\Admin\Desktop\CSharp\DayThree\DayThree\bin\Debug\net5.0\ref\DayThree.dll
+C:\Users\Admin\Desktop\CSharp\DayThree\DayThree\bin\Debug\net5.0\DayThree.pdb
+C:\Users\Admin\Desktop\CSharp\DayThree\DayThree\obj\Debug\net5.0\DayThree.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\CSharp\DayThree\DayThree\obj\Debug\net5.0\DayThree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\CSharp\DayThree\DayThree\obj\Debug\net5.0\DayThree.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\CSharp\DayThree\DayThree\obj\Debug\net5.0\DayThree.AssemblyInfo.cs
+C:\Users\Admin\Desktop\CSharp\DayThree\DayThree\obj\Debug\net5.0\DayThree.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CSharp\DayThree\DayThree\obj\Debug\net5.0\DayThree.dll
+C:\Users\Admin\Desktop\CSharp\DayThree\DayThree\obj\Debug\net5.0\ref\DayThree.dll
+C:\Users\Admin\Desktop\CSharp\DayThree\DayThree\obj\Debug\net5.0\DayThree.pdb
+C:\Users\Admin\Desktop\CSharp\DayThree\DayThree\obj\Debug\net5.0\DayThree.genruntimeconfig.cache
